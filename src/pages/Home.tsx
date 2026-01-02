@@ -4,6 +4,7 @@ import updatesData from '../data/updates.json';
 import experienceData from '../data/experience.json';
 import educationData from '../data/education.json';
 import { usePageTitle } from '../hooks/usePageTitle';
+import { ImageWithFallback } from '../components/figma/ImageWithFallback';
 
 export function Home() {
   usePageTitle('Huzaifa Suri — Machine Learning Engineer');
@@ -23,10 +24,10 @@ export function Home() {
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       {/* Hero Section */}
       <section className="flex flex-col items-center text-center space-y-6">
-        <img
-          src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NjczMDUxNTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        <ImageWithFallback
+          src="/assets/headshot.jpg"
           alt="Huzaifa Suri"
-          className="w-32 h-32 rounded-full object-cover border-2 border-border"
+          className="w-32 h-32 rounded-full object-cover object-center border-2 border-border"
         />
         <div className="space-y-3">
           <h1>Huzaifa Suri</h1>
