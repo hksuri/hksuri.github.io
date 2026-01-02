@@ -23,23 +23,26 @@ export function Home() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
       {/* Hero Section */}
-      <section className="flex flex-col items-center text-center space-y-6">
+      <section className="flex flex-col items-center text-center">
         <ImageWithFallback
           src="/assets/headshot.jpg"
           alt="Huzaifa Suri"
           className="w-32 h-32 rounded-full object-cover object-center border-2 border-border"
+          style={{ marginBottom: '0.75rem' }}
         />
-        <div className="space-y-3">
-          <h1>Huzaifa Suri</h1>
-          <p className="text-muted-foreground text-lg">Machine Learning Engineer</p>
+        <div>
+          <h1 style={{ fontWeight: 800, fontSize: '1.5rem' }}>Huzaifa Suri</h1>
+          <p className="text-muted-foreground text-lg" style={{ marginTop: '0.25rem', marginBottom: '2rem' }}>Machine Learning Engineer</p>
           <p className="text-muted-foreground max-w-2xl">
-            Machine Learning Engineer focused on building reliable ML systems end-to-end—from
-            research and prototyping to production deployment. 3+ years of experience in
-            health/med-tech, with broad interests across AI/ML and system design. Passionate about
-            the full ML lifecycle, from data to deployment.
+            I build reliable ML systems end-to-end, from
+            research and prototyping to production deployment. I have 3+ years of experience in
+            health/med-tech, with broad interests across AI/ML and system design.
+          </p>
+          <p className="text-muted-foreground max-w-2xl" style={{ marginTop: '1rem' }}>
+            I am passionate about the full ML lifecycle, from data to deployment.
           </p>
         </div>
-        <div className="flex flex-wrap items-center justify-center gap-3">
+        <div className="flex flex-wrap items-center justify-center gap-3" style={{ marginTop: '1rem' }}>
           <Link
             to="/projects"
             className="px-6 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity duration-200"

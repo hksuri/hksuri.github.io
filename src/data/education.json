@@ -1,18 +1,18 @@
 [
   {
-    "degree": "Master of Science in Computer Science",
-    "institution": "PLACEHOLDER UNIVERSITY",
-    "location": "Cambridge, MA",
-    "startDate": "2020-09",
-    "endDate": "2022-05",
-    "notes": "Focus: Machine Learning, Artificial Intelligence"
+    "degree": "MS, Electrical & Computer Engineering",
+    "institution": "University of Illinois Urbana-Champaign",
+    "location": "Champaign, IL",
+    "startDate": "2022-08",
+    "endDate": "2024-05",
+    "notes": "GPA 4.0/4.0. Focus: Deep Learning, Computer Vision, Medical Imaging"
   },
   {
-    "degree": "Bachelor of Science in Computer Engineering",
-    "institution": "PLACEHOLDER UNIVERSITY",
-    "location": "Berkeley, CA",
-    "startDate": "2016-09",
-    "endDate": "2020-05",
-    "notes": "Minor in Mathematics, Summa Cum Laude"
+    "degree": "BS, Electrical Engineering",
+    "institution": "Lahore University of Management Sciences",
+    "location": "Lahore, Pakistan",
+    "startDate": "2017-09",
+    "endDate": "2021-05",
+    "notes": "GPA 3.9/4.0. Graduated with High Distinction, Merit Scholarships (~$7,500 USD)"
   }
 ]

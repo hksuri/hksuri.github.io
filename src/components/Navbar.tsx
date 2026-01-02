@@ -16,9 +16,9 @@ export function Navbar() {
   ];
 
   const socialLinks = [
-    { href: 'https://github.com/PLACEHOLDER', icon: Github, label: 'GitHub' },
-    { href: 'https://linkedin.com/in/PLACEHOLDER', icon: Linkedin, label: 'LinkedIn' },
-    { href: 'mailto:PLACEHOLDER@domain.com', icon: Mail, label: 'Email' },
+    { href: 'https://github.com/hksuri', icon: Github, label: 'GitHub' },
+    { href: 'https://www.linkedin.com/in/huzaifa-khan-suri/', icon: Linkedin, label: 'LinkedIn' },
+    { href: 'mailto:huzaifasuri@gmail.com', icon: Mail, label: 'Email' },
   ];
 
   const isActive = (path: string) => location.pathname === path;
@@ -32,7 +32,7 @@ export function Navbar() {
             to="/"
             className="transition-opacity hover:opacity-70 duration-200"
           >
-            <span className="font-medium">Huzaifa Suri</span>
+            <span style={{ fontWeight: 700 }}>Huzaifa Suri</span>
           </Link>
 
           {/* Desktop Navigation */}

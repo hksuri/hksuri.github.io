@@ -35,7 +35,10 @@ export function Publications() {
       const isHuzaifa = author === 'Huzaifa Suri';
       return (
         <span key={index}>
-          <span className={isHuzaifa ? 'font-medium text-foreground' : 'text-muted-foreground'}>
+          <span 
+            className={isHuzaifa ? 'text-foreground' : 'text-muted-foreground'}
+            style={isHuzaifa ? { fontWeight: 700 } : undefined}
+          >
             {author}
           </span>
           {index < authors.length - 1 && <span className="text-muted-foreground">, </span>}
