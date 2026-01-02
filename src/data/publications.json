@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Automated Approach for Clothing Insulation Estimation using RGB Images and Deep Learning",
+    "authors": ["Nidia Bucarelli", "Huzaifa Suri"],
+    "venue": "CRC 2026 (Conditional Acceptance)",
+    "date": "2026-01-01",
+    "year": 2026,
+    "link": ""
+  },
+  {
+    "title": "Development of a deep learning model to classify choroidal melanoma risk factors based on color fundus photographs",
+    "authors": ["Huzaifa Suri", "P. Connor Lentz", "David A. Leske", "Mostafa Mousavi", "Haley S. D'Souza", "Muhammad B. Qureshi", "Raymond Iezzi", "Yogatheesan Varatharajah", "Lauren A. Dalvin"],
+    "venue": "AJO International",
+    "date": "2025-12-01",
+    "year": 2025,
+    "link": "https://www.sciencedirect.com/science/article/pii/S2950253525000711"
+  }
+]

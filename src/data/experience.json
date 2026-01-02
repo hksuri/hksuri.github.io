@@ -1,0 +1,46 @@
+[
+  {
+    "role": "Machine Learning Engineer",
+    "company": "Oatmeal Health",
+    "location": "Remote US",
+    "startDate": "2024-08",
+    "endDate": null,
+    "highlights": [
+      "Built computer vision models for medical image classification achieving 0.95 AUC",
+      "Designed and deployed MLOps infrastructure using Kubernetes and Kubeflow"
+    ]
+  },
+  {
+    "role": "AI Research Affiliate",
+    "company": "Mayo Clinic",
+    "location": "Remote US",
+    "startDate": "2023-02",
+    "endDate": "2024-07",
+    "highlights": [
+      "Developed a multimodal prognosis prediction system using vision transformers",
+      "Applied cross-modal transfer learning for video data analysis and classification"
+    ]
+  },
+  {
+    "role": "ML Engineer Intern",
+    "company": "Virtusense Technologies",
+    "location": "Peoria, IL",
+    "startDate": "2023-07",
+    "endDate": "2023-09",
+    "highlights": [
+      "Designed an event detection algorithm using infra-red / depth sensor data",
+      "Developed a monocular depth estimation model for edge devices "
+    ]
+  },
+  {
+    "role": "Data Science Researcher",
+    "company": "CITY at LUMS",
+    "location": "Lahore, Pakistan",
+    "startDate": "2021-08",
+    "endDate": "2022-07",
+    "highlights": [
+      "Developed a geospatial simulation to optimize city-wide emergency response",
+      "Identified accident-prone hotspots using geostatistical analysis"
+    ]
+  }
+]
