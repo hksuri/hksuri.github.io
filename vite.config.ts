@@ -10,8 +10,7 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  // Uncomment and update this if deploying to GitHub Pages with a repository name
-  // base: '/hksuri.github.io/',
+  base: '/',
   build: {
     outDir: 'dist',
     sourcemap: false,
