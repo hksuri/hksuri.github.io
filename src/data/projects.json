@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Real-time Medical Image Segmentation",
+    "slug": "medical-image-segmentation",
+    "description": "Built an end-to-end deep learning pipeline for real-time segmentation of medical scans, deployed in clinical settings with <100ms inference time.",
+    "tags": ["Computer Vision", "MLOps", "Healthcare"],
+    "thumbnail": "https://images.unsplash.com/photo-1606206873764-fd15e242df52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZWRpY2FsJTIwdGVjaG5vbG9neXxlbnwxfHx8fDE3NjcxODg3NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "link": "https://github.com/PLACEHOLDER"
+  },
+  {
+    "title": "Distributed Training Framework",
+    "slug": "distributed-training",
+    "description": "Open-source framework for efficient distributed training of large language models across multi-GPU and multi-node clusters.",
+    "tags": ["Systems", "LLM", "Infrastructure"],
+    "thumbnail": "https://images.unsplash.com/photo-1762163516269-3c143e04175c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzZXJ2ZXIlMjB0ZWNobm9sb2d5fGVufDF8fHx8MTc2NzI1NjUzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "link": "https://github.com/PLACEHOLDER"
+  },
+  {
+    "title": "Clinical NLP Pipeline",
+    "slug": "clinical-nlp",
+    "description": "Production NLP system for extracting structured information from clinical notes, processing 100K+ documents daily.",
+    "tags": ["NLP", "Healthcare", "MLOps"],
+    "thumbnail": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDF8fHx8MTc2NzI0NjAwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "link": "https://github.com/PLACEHOLDER"
+  },
+  {
+    "title": "Feature Store for ML Platforms",
+    "slug": "feature-store",
+    "description": "Scalable feature store implementation with online/offline serving, versioning, and monitoring capabilities.",
+    "tags": ["MLOps", "Systems", "Infrastructure"],
+    "thumbnail": "https://images.unsplash.com/photo-1610913721979-b20ede600e63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwaW5mcmFzdHJ1Y3R1cmV8ZW58MXx8fHwxNzY3MzEzNDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "link": "https://github.com/PLACEHOLDER"
+  },
+  {
+    "title": "Anomaly Detection for IoT Sensors",
+    "slug": "iot-anomaly-detection",
+    "description": "Time-series anomaly detection system for medical IoT devices using transformer-based models.",
+    "tags": ["Time Series", "Healthcare", "Deep Learning"],
+    "thumbnail": "https://images.unsplash.com/photo-1626335507832-40da3b65de57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpb3QlMjBzZW5zb3JzfGVufDF8fHx8MTc2NzMxMzQ5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "link": "https://github.com/PLACEHOLDER"
+  },
+  {
+    "title": "Model Interpretability Toolkit",
+    "slug": "interpretability-toolkit",
+    "description": "Open-source library for explaining black-box ML models with SHAP, LIME, and custom visualization tools.",
+    "tags": ["Interpretability", "Research", "Tools"],
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwxfHx8fDE3NjczMTM0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "link": "https://github.com/PLACEHOLDER"
+  }
+]

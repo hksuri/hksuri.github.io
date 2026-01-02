@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Efficient Transformer Architectures for Medical Image Analysis",
+    "authors": ["Huzaifa Suri", "Jane Doe", "John Smith"],
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+    "date": "2025-10-01",
+    "year": 2025,
+    "link": "https://arxiv.org/PLACEHOLDER"
+  },
+  {
+    "title": "Scalable Feature Engineering for Real-time ML Systems",
+    "authors": ["Alice Johnson", "Huzaifa Suri", "Bob Williams"],
+    "venue": "Conference on Machine Learning and Systems (MLSys)",
+    "date": "2024-06-15",
+    "year": 2024,
+    "link": "https://arxiv.org/PLACEHOLDER"
+  },
+  {
+    "title": "Clinical NLP: Challenges and Opportunities in Healthcare AI",
+    "authors": ["Huzaifa Suri", "Emily Chen", "Michael Brown"],
+    "venue": "Journal of Biomedical Informatics",
+    "date": "2024-03-20",
+    "year": 2024,
+    "link": "https://doi.org/PLACEHOLDER"
+  },
+  {
+    "title": "Interpretable Deep Learning Models for Medical Diagnostics",
+    "authors": ["Sarah Lee", "Huzaifa Suri", "David Kim"],
+    "venue": "Neural Information Processing Systems (NeurIPS)",
+    "date": "2023-12-10",
+    "year": 2023,
+    "link": "https://arxiv.org/PLACEHOLDER"
+  },
+  {
+    "title": "Distributed Training Strategies for Large-Scale Language Models",
+    "authors": ["Huzaifa Suri", "Robert Garcia"],
+    "venue": "International Conference on Learning Representations (ICLR)",
+    "date": "2023-05-01",
+    "year": 2023,
+    "link": "https://arxiv.org/PLACEHOLDER"
+  }
+]

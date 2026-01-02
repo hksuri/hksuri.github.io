@@ -1,0 +1,18 @@
+[
+  {
+    "degree": "Master of Science in Computer Science",
+    "institution": "PLACEHOLDER UNIVERSITY",
+    "location": "Cambridge, MA",
+    "startDate": "2020-09",
+    "endDate": "2022-05",
+    "notes": "Focus: Machine Learning, Artificial Intelligence"
+  },
+  {
+    "degree": "Bachelor of Science in Computer Engineering",
+    "institution": "PLACEHOLDER UNIVERSITY",
+    "location": "Berkeley, CA",
+    "startDate": "2016-09",
+    "endDate": "2020-05",
+    "notes": "Minor in Mathematics, Summa Cum Laude"
+  }
+]

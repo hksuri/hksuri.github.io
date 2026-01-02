@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Senior Machine Learning Engineer",
+    "company": "PLACEHOLDER COMPANY",
+    "location": "San Francisco, CA",
+    "startDate": "2024-01",
+    "endDate": null,
+    "highlights": [
+      "Led development of ML pipeline processing 10M+ daily predictions with 99.9% uptime",
+      "Architected real-time feature engineering system reducing latency by 60%"
+    ]
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "company": "PLACEHOLDER HEALTH TECH",
+    "location": "Remote",
+    "startDate": "2022-06",
+    "endDate": "2023-12",
+    "highlights": [
+      "Built computer vision models for medical image analysis achieving 94% accuracy",
+      "Designed and deployed MLOps infrastructure using Kubernetes and Kubeflow"
+    ]
+  },
+  {
+    "role": "ML Research Intern",
+    "company": "PLACEHOLDER RESEARCH LAB",
+    "location": "Boston, MA",
+    "startDate": "2021-05",
+    "endDate": "2021-08",
+    "highlights": [
+      "Developed novel NLP models for clinical text processing",
+      "Published findings in peer-reviewed conference proceedings"
+    ]
+  }
+]
